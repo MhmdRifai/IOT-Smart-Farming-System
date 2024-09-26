@@ -1,4 +1,4 @@
-# IoT Smart Farming
+# IoT Smart Farming System
 
 ## Deskripsi Proyek
 IoT Smart Farming adalah proyek yang bertujuan untuk mengintegrasikan teknologi Internet of Things (IoT) dalam sektor pertanian. Proyek ini dirancang untuk membantu petani memantau kondisi tanah, kelembaban, dan suhu secara otomatis menggunakan sensor-sensor yang terhubung ke jaringan internet. Dengan sistem ini, petani dapat melakukan pemantauan jarak jauh dan membuat keputusan berbasis data untuk meningkatkan efisiensi pertanian.
